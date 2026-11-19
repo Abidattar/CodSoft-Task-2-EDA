@@ -1,0 +1,71 @@
+
+CODSOFT DATA ANALYST INTERNSHIP
+TASK 2: EXPLORATORY DATA ANALYSIS
+
+1. DATASET OVERVIEW
+
+Total Employees: 29
+Total Columns: 7
+
+2. AGE ANALYSIS
+
+Average Age: 27.79
+Minimum Age: 23
+Maximum Age: 35
+
+3. SALARY ANALYSIS
+
+Average Salary: 35206.90
+Minimum Salary: 25000
+Maximum Salary: 52000
+
+4. CITY ANALYSIS
+
+City with highest average salary: Hyderabad
+Average salary in that city: 41250.00
+
+Employee distribution by city:
+City
+Delhi        6
+Mumbai       6
+Bangalore    5
+Chennai      4
+Hyderabad    4
+Pune         4
+
+5. GENDER ANALYSIS
+
+        count          mean   median
+Gender                              
+Female     15  32466.666667  32000.0
+Male       14  38142.857143  38500.0
+
+6. OUTLIER ANALYSIS
+
+Age outliers: 0
+Salary outliers: 0
+
+Salary outlier records:
+Empty DataFrame
+Columns: [Name, Salary]
+Index: []
+
+7. RELATIONSHIP ANALYSIS
+
+Correlation between Age and Salary: 0.86
+
+8. CONCLUSION
+
+The dataset was examined using descriptive statistics,
+visualizations, and outlier detection.
+
+Salary distribution, employee distribution by city,
+gender-based salary summaries, and the relationship
+between age and salary were analyzed.
+
+The analysis provides an overview of the employee
+dataset and identifies unusual salary values.
+
+Note: This dataset contains only a small sample of
+employees. Findings should not be generalized to
+a larger workforce.
